@@ -22,3 +22,8 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+Custom modifications
+--------------------
+Following patches applied:
+  - https://tools.suckless.org/dmenu/patches/highlight/
