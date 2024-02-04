@@ -27,3 +27,5 @@ Custom modifications
 --------------------
 Following patches applied:
   - https://tools.suckless.org/dmenu/patches/highlight/
+  - https://tools.suckless.org/dmenu/patches/instant/
+  - https://tools.suckless.org/dmenu/patches/case-insensitive/
